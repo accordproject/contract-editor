@@ -170,11 +170,11 @@ function ClausePlugin() {
 
   function onClickButton(editor, event) {
     event.preventDefault();
-    alert('Video plugin button clicked!');
+    alert('Clause plugin button clicked!');
   }
 
   /**
-   * Render a video toolbar button.
+   * Render a clause toolbar button.
    *
    * @param {Editor} editor
    * @return {Element}
