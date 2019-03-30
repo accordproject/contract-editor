@@ -4,7 +4,7 @@ This component is Apache-2 licensed Open Source. Contributors welcome!
 
 ### Demo
 
-https://accordproject-contract-editor.netlify.com/examples/
+https://contract-editor.netlify.com/examples/
 
 ### Usage
 
