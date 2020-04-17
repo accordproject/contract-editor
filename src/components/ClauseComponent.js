@@ -31,6 +31,7 @@ const ClauseMenu = styled.div`
 const ContractActions = styled.div`
   float: right;
   padding-top: 2px;
+  transform: translateY(-0.5rem);
 `;
 
 const ClauseAction = styled.a`
